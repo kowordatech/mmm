@@ -1,0 +1,44 @@
+{
+  "2026-02": {
+    "dms": 23,
+    "demos": 7,
+    "signups": 2,
+    "revenue": 1000,
+    "notes": "seed"
+  },
+  "2026-03": {
+    "dms": 18,
+    "demos": 6,
+    "signups": 2,
+    "revenue": 1000,
+    "notes": "seed"
+  },
+  "2026-04": {
+    "dms": 23,
+    "demos": 7,
+    "signups": 2,
+    "revenue": 1000,
+    "notes": "seed"
+  },
+  "2026-05": {
+    "dms": 20,
+    "demos": 6,
+    "signups": 2,
+    "revenue": 1000,
+    "notes": "seed"
+  },
+  "2026-06": {
+    "dms": 22,
+    "demos": 7,
+    "signups": 2,
+    "revenue": 1000,
+    "notes": "seed"
+  },
+  "2026-07": {
+    "dms": 10,
+    "demos": 3,
+    "signups": 1,
+    "revenue": 500,
+    "notes": "seed"
+  }
+}

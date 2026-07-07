@@ -46,3 +46,15 @@ export interface StateResponse {
 export interface PostedMap {
   [key: string]: string;
 }
+
+export interface MonthlyResult {
+  dms?: number;
+  demos?: number;
+  signups?: number;
+  revenue?: number;
+  notes?: string;
+}
+
+export interface ResultsMap {
+  [month: string]: MonthlyResult;
+}
