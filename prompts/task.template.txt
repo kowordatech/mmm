@@ -1,0 +1,11 @@
+Generate the full social media content calendar for leads2conv.
+
+MONTH: {{MONTH_NAME}} {{YEAR}}
+DATE RANGE: {{START_DATE}} to {{END_DATE}}
+CURRENT CONTEXT / SEASONAL HOOKS: {{CONTEXT}}
+THIS MONTH'S OFFER: {{OFFER}}
+WHATSAPP NUMBER: {{WHATSAPP_NUMBER}}
+POSTS TO AVOID REPEATING (previous hooks): {{PREVIOUS_HOOKS_LIST}}
+EXTRA INSTRUCTIONS: {{EXTRA}}
+
+Follow the monthly narrative arc, channel rules, and cadence exactly. Output JSON only.

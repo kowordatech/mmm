@@ -1,0 +1,9 @@
+{
+  "whatsappNumber": "+233 553528402",
+  "offer": "TBD",
+  "context": "auto",
+  "extra": "none",
+  "model": "claude-sonnet-4-6",
+  "maxTokens": 8000,
+  "hooksHistoryMonths": 2
+}

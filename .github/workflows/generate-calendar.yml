@@ -1,0 +1,58 @@
+name: Generate leads2conv monthly calendar
+
+on:
+  schedule:
+    # 06:00 UTC on the 25th of every month -> generates NEXT month's calendar early
+    - cron: "0 6 25 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "Target month (YYYY-MM). Leave empty for next month."
+        required: false
+      this_month:
+        description: "Generate for the CURRENT month instead of next"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate calendar
+        id: gen
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.month }}" ]; then ARGS="--month ${{ github.event.inputs.month }}"; fi
+          if [ "${{ github.event.inputs.this_month }}" = "true" ]; then ARGS="--this-month"; fi
+          node scripts/generate.js $ARGS
+
+      - name: Commit calendar + hook history
+        run: |
+          git config user.name "leads2conv-agent"
+          git config user.email "agent@leads2conv.com"
+          git add calendars/ hooks-history.json
+          git diff --cached --quiet || git commit -m "chore: generated calendar ${{ steps.gen.outputs.month || '' }}"
+          git push
+
+      - name: Open reminder issue if offer is TBD
+        if: steps.gen.outputs.offer_needed_by != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Decide Week 4 offer for ${{ steps.gen.outputs.month }} (by ${{ steps.gen.outputs.offer_needed_by }})" \
+            --body "The generated calendar has placeholder ⭐[OFFER] posts in Close Week. Update config.json's \"offer\" and re-run the workflow (workflow_dispatch, month=${{ steps.gen.outputs.month }}), or manually edit calendars/leads2conv-${{ steps.gen.outputs.month }}.json before Week 4 starts."
