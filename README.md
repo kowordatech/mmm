@@ -5,14 +5,22 @@ Automated monthly content calendar generator **with a local web control panel**.
 ```
 leads2conv-marketing-agent/
 ├── .github/workflows/generate-calendar.yml   # monthly cron + manual trigger
-├── app/
-│   ├── server.js           # Express control panel (npm start)
-│   └── public/index.html   # the UI
+├── app/                     # Next.js control panel (App Router, TypeScript)
+│   ├── layout.tsx           # header, nav, toast provider
+│   ├── globals.css          # the UI's styling
+│   ├── page.tsx             # Today tab ("/")
+│   ├── calendar/page.tsx    # Calendar tab
+│   ├── generate/page.tsx    # Generate tab
+│   ├── settings/page.tsx    # Settings tab
+│   └── api/                 # route handlers (state, calendar, posted, config, generate)
+├── components/              # PostCard, NavTabs, DateChip
+├── lib/                     # fs/JSON helpers, fetch wrapper, toast context
+├── types/calendar.ts        # shared types
 ├── prompts/
 │   ├── system.txt          # the agent's brain (voice, arc, rules, schema)
 │   ├── task.template.txt   # monthly trigger, {{variables}} filled by the script
 │   └── qa.txt              # reviewer pass
-├── scripts/generate.js     # generation engine (used by both CLI and web app)
+├── scripts/generate.js     # generation engine (used by both CLI and the web app's Generate tab)
 ├── calendars/              # output: leads2conv-YYYY-MM.json
 ├── hooks-history.json      # memory of past hooks (prevents repetition)
 ├── posted.json             # created by the app: what you've ticked as posted
@@ -23,12 +31,12 @@ leads2conv-marketing-agent/
 ## QUICK START — the web app (10 min)
 
 ```powershell
-npm install                                   # installs express + dotenv (once)
+npm install                                   # installs Next.js/React + dotenv (once)
 copy .env.example .env                        # then edit .env and paste your key
-npm start
+npm run dev
 ```
 
-Open **http://localhost:3210**. Four tabs:
+Open **http://localhost:3210**. Four tabs (each its own route: `/`, `/calendar`, `/generate`, `/settings`):
 
 - **Today** — a call sheet of today's posts sorted by posting time. Copy post (or post + hashtags) with one click, tick "Posted" when done. Shows a banner if the Close Week offer is still TBD and the decide-by date is approaching.
 - **Calendar** — every post for any generated month, grouped by week with themes.

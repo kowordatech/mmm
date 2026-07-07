@@ -4,16 +4,26 @@
   "private": true,
   "description": "Automated monthly sales-driven social content calendar for leads2conv (KowordaTech)",
   "scripts": {
+    "dev": "next dev -p 3210",
+    "build": "next build",
+    "start": "next start -p 3210",
     "generate": "node scripts/generate.js",
     "generate:this-month": "node scripts/generate.js --this-month",
-    "dry-run": "node scripts/generate.js --dry-run",
-    "start": "node app/server.js"
+    "dry-run": "node scripts/generate.js --dry-run"
   },
   "engines": {
     "node": ">=18"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
-    "express": "^4.19.0"
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
   }
 }
