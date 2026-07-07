@@ -23,8 +23,8 @@ leads2conv-marketing-agent/
 ## QUICK START — the web app (10 min)
 
 ```powershell
-npm install                                   # installs express (once)
-$env:ANTHROPIC_API_KEY = "sk-ant-your-key"    # PowerShell syntax
+npm install                                   # installs express + dotenv (once)
+copy .env.example .env                        # then edit .env and paste your key
 npm start
 ```
 
@@ -63,10 +63,11 @@ Open `config.json` and edit:
 ## STEP 3 — First local generation (5 min, ~2 API calls)
 
 1. Get an API key from console.anthropic.com → API Keys.
-2. Run:
+2. Copy `.env.example` to `.env` and paste your key into `ANTHROPIC_API_KEY=`.
+3. Run:
 
 ```bash
-ANTHROPIC_API_KEY=sk-ant-... npm run generate:this-month
+npm run generate:this-month
 ```
 
 3. Check the output: `calendars/leads2conv-2026-07.json` (or current month). Open it — every post has `date`, `channel`, `posting_time`, full `body`, `cta`, `hashtags`, and a `graphic_brief`.

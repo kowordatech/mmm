@@ -1,0 +1,949 @@
+{
+  "month": "2026-07",
+  "theme": "H1 is over — July is where winners adjust, not January",
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme": "PROBLEM — Agitate the pain of a closed H1 with no clear data",
+      "posts": [
+        {
+          "date": "2026-07-01",
+          "day": "Wed",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "H1 just ended. Do you actually know what your sales team did?",
+          "body": "H1 just ended. Do you actually know what your sales team did?\n\nNot what they said they did.\nNot the WhatsApp voice notes.\nNot the number Kofi mentioned in the Monday meeting.\n\nActual calls. Actual leads contacted. Actual follow-ups that happened.\n\nMost business owners I talk to can't answer that question honestly.\nThey have a feeling. A rough number. A rep who \"seems busy.\"\n\nJuly is the reset month. H2 starts now.\n\nBut you can't adjust what you never measured.\n\nWhat does your H1 sales data actually look like? Drop a comment — honest answers only. 👇",
+          "cta": "Drop a comment — honest answers only.",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#SME"
+          ],
+          "graphic_brief": "Bold text on dark background: 'H1 is done. Do you know what your team actually did?' — leads2conv logo bottom right",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-01",
+          "day": "Wed",
+          "channel": "whatsapp_status",
+          "format": "graphic",
+          "hook": "H1 is done.",
+          "body": "H1 is done. 🗓️ Can you prove what your reps did? Most managers can't.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": "Split graphic: left side calendar showing June crossed out, right side question mark. leads2conv branding.",
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-02",
+          "day": "Thu",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Your rep said he made 40 calls yesterday. 🤔",
+          "body": "Your rep said he made 40 calls yesterday. 🤔\n\nBut his pipeline has 2 new leads.\nHis follow-up list hasn't moved.\nAnd you have zero proof.\n\nThis is Ghana sales reality for most SMEs.\n\nYou're not managing a sales team — you're managing stories.\n\nH2 starts now. Is July going to be different, or the same?\n\nTell us in the comments 👇",
+          "cta": "Tell us in the comments.",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Cartoon rep on phone looking relaxed while boss checks empty spreadsheet. Light, relatable tone.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-02",
+          "day": "Thu",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "40 calls — says who?",
+          "body": "\"40 calls today boss\" 📱 No log. No proof. No leads. Sound familiar?",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-03",
+          "day": "Fri",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "The rep resigned on Friday. By Monday, the leads were gone.",
+          "body": "The rep resigned on Friday. By Monday, the leads were gone.\n\nNot the company's leads.\nHis leads. In his phone. In his WhatsApp. In his head.\n\nThe prospects he had been nurturing for three months?\nThey're getting calls from his new employer now.\n\nThis isn't a loyalty problem. It's a systems problem.\n\nWhen leads live in reps' phones, they leave with the rep.\nEvery. Single. Time.\n\nHow many leads has your business lost this way? \nBe honest. 👇",
+          "cta": "How many leads has your business lost this way?",
+          "hashtags": [
+            "#SalesGhana",
+            "#GhanaBusiness",
+            "#SalesManagement",
+            "#Accra"
+          ],
+          "graphic_brief": "Visual of a phone walking out a door carrying a briefcase labeled 'YOUR LEADS'. Bold and simple.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-03",
+          "day": "Fri",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Rep leaves Friday.",
+          "body": "Rep leaves Friday. Your leads leave with him. 🚪 That's not loyalty — it's a systems problem.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-04",
+          "day": "Sat",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Saturday check-in for sales managers in Ghana 👋",
+          "body": "Saturday check-in for sales managers in Ghana 👋\n\nQuick question: when your team submits their weekly report on Friday...\n\nIs it a real record of what happened?\nOr is it a creative writing exercise done from memory at 4:45pm?\n\n😅 We know how it goes.\n\nH2 starts Monday. This week on leads2conv, we'll be talking about how to actually fix this.\n\nHave a good weekend — rest well so you can run hard on Monday! 💪",
+          "cta": "Drop a 😅 if the creative writing part is too real.",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Relaxed Saturday vibe graphic: 'Rest today, run hard Monday' with leads2conv logo.",
+          "posting_time": "10:00"
+        },
+        {
+          "date": "2026-07-04",
+          "day": "Sat",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Rest today.",
+          "body": "Rest today. But Monday? H2 starts. 💪 No more guessing what your team did.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "10:30"
+        },
+        {
+          "date": "2026-07-05",
+          "day": "Sun",
+          "channel": "whatsapp_broadcast",
+          "format": "text",
+          "hook": "Good evening [Name],",
+          "body": "Good evening [Name],\n\nH1 is behind us. July is the real reset.\n\nThis week we're asking hard questions: Do you actually know what your sales team did in the first half of the year?\n\nIf the honest answer is \"not really\" — that's exactly what leads2conv is built for.\n\nReply DEMO and let's show you how it works. 🙏",
+          "cta": "Reply DEMO",
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "19:00"
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme": "PRODUCT — One feature per post, framed as a benefit scene",
+      "posts": [
+        {
+          "date": "2026-07-06",
+          "day": "Mon",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "8:00am Monday. You open leads2conv and you already know.",
+          "body": "8:00am Monday. You open leads2conv and you already know.\n\nWho called who. How many times. What was said. What happens next.\n\nNo waiting for the team meeting.\nNo chasing reps for updates.\nNo \"I think we spoke to them last month.\"\n\nleads2conv gives you a live daily dashboard — every rep's activity, right there.\n\nCalls logged. Leads tracked. Follow-ups scheduled.\n\nYou see it in real time. Not at month-end.\nNot when it's too late to correct course.\n\nThat's what it means to actually manage a sales team.\n\nWant to see it for your team? DM me 'DEMO' 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesManagement",
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#ColdCalling"
+          ],
+          "graphic_brief": "Clean dashboard screenshot mockup or illustration showing rep activity at 8am Monday. leads2conv branding.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-06",
+          "day": "Mon",
+          "channel": "whatsapp_status",
+          "format": "graphic",
+          "hook": "8am Monday.",
+          "body": "8am Monday. ☀️ You already know exactly what your team did. That's leads2conv.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": "Minimalist graphic: clock showing 8:00, dashboard icon, leads2conv logo.",
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-07",
+          "day": "Tue",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Imagine this: a prospect tells your rep 'call me next week' 📞",
+          "body": "Imagine this: a prospect tells your rep 'call me next week' 📞\n\nOld system: rep writes it in his notebook. Life happens. The call never comes.\n\nleads2conv system: a follow-up reminder is set right there. On the day, the rep gets notified. The lead gets called.\n\nDeals don't die because people are bad salespeople.\nThey die because follow-ups get forgotten.\n\nAutomatic reminders mean no lead falls through the cracks — even when things get busy.\n\n📲 DM us 'DEMO' to see how it works.",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesGhana",
+            "#GhanaBusiness",
+            "#ColdCalling"
+          ],
+          "graphic_brief": "Two-panel comic: Panel 1 — rep writes note, forgets. Panel 2 — leads2conv sends reminder, rep calls. Deal closed.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-07",
+          "day": "Tue",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "\"Call me next week.\"",
+          "body": "\"Call me next week.\" ⏰ With leads2conv, that reminder fires automatically. No forgotten follow-ups.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-08",
+          "day": "Wed",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "The loudest rep in the room is not always the best rep.",
+          "body": "The loudest rep in the room is not always the best rep.\n\nEvery sales manager knows this — but without data, you end up rewarding confidence instead of performance.\n\nleads2conv's team leaderboard changes that.\n\nCalls made. Leads converted. Follow-ups completed.\nEvery rep ranked on the same scoreboard.\n\nQuiet Ama who works methodically and closes consistently?\nShe finally gets seen.\n\nLoud Kweku who talks a big game but skips follow-ups?\nThe numbers don't lie.\n\nFair teams run on data, not volume.\n\nDM 'DEMO' and I'll show you what this looks like in practice. 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesManagement",
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Leaderboard graphic with anonymised names, showing call counts and conversion. Bold, clean design.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-08",
+          "day": "Wed",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Loud ≠ best.",
+          "body": "Loud ≠ best. 📊 leads2conv shows you who's actually performing. Numbers don't lie.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-09",
+          "day": "Thu",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "A rep leaves. The leads stay. 🔒",
+          "body": "A rep leaves. The leads stay. 🔒\n\nWith leads2conv, every lead, every contact, every call history lives in the system — not in anyone's personal phone.\n\nSo when a rep moves on, you don't lose three months of relationship-building.\n\nYou reassign the leads. Another rep picks up where she left off.\nFull history. Full context. Zero interruption.\n\nThe business owns the pipeline. Always.\n\nWant to see how it works for your team? DM us 'DEMO' 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Visual: leads in a locked safe labeled 'Company Property.' Rep walks out door empty-handed. Clean design.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-09",
+          "day": "Thu",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Pipeline stays put.",
+          "body": "Rep goes. Pipeline stays. 🔒 Every lead, every call history — locked in the system. Not in anyone's phone.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-10",
+          "day": "Fri",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "End of week. No chasing. No report compilation. Just open the dashboard.",
+          "body": "End of week. No chasing. No report compilation. Just open the dashboard.\n\nleads2conv generates daily activity summaries automatically.\n\nCalls per rep. Leads in progress. Follow-ups pending.\n\nFriday afternoon doesn't have to be \"report collection\" time anymore.\nYou already have the report. It wrote itself.\n\nThat time? You can use it to actually coach your team.\nOr leave early for once. 😄\n\nIf this sounds like a different life — DM me 'DEMO'. I'll show you what it looks like.",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesManagement",
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Graphic: Friday 5pm — manager relaxed at desk with dashboard open, team data visible. Tagline: 'The report wrote itself.'",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-10",
+          "day": "Fri",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Friday 5pm.",
+          "body": "Friday 5pm. ✅ Dashboard done. Report ready. No chasing anyone. That's leads2conv.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-11",
+          "day": "Sat",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Small thing, big difference: if a rep can use WhatsApp, they can use leads2conv. 📱",
+          "body": "Small thing, big difference: if a rep can use WhatsApp, they can use leads2conv. 📱\n\nNo IT department needed.\nNo training week.\nNo \"the system is too complicated\" excuse.\n\nBuilt in Ghana, for how sales actually works here.\nBecause African problems deserve African-built solutions.\n\nYour team can be up and running fast — and actually using it.\n\nHappy Saturday! Rest well. H2 is just getting started. 🙏",
+          "cta": "DM us 'DEMO' to see it in action.",
+          "hashtags": [
+            "#MadeInGhana",
+            "#GhanaBusiness",
+            "#SalesGhana"
+          ],
+          "graphic_brief": "Side-by-side: familiar WhatsApp UI on one side, leads2conv UI on other. Text overlay: 'If you can use one, you can use the other.'",
+          "posting_time": "10:00"
+        },
+        {
+          "date": "2026-07-11",
+          "day": "Sat",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Built in Ghana.",
+          "body": "Built in Ghana 🇬🇭 for how sales actually works here. Simple enough for any rep. Powerful enough for any manager.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "10:30"
+        },
+        {
+          "date": "2026-07-12",
+          "day": "Sun",
+          "channel": "whatsapp_broadcast",
+          "format": "text",
+          "hook": "Good evening [Name],",
+          "body": "Good evening [Name],\n\nThis week we walked through what leads2conv actually does — live call tracking, automatic follow-up reminders, team leaderboards, and daily dashboards.\n\nOne question: which of these would make the biggest difference in your team right now?\n\nReply DEMO and let's set up a quick walkthrough this week. No pressure, just a look. 📲",
+          "cta": "Reply DEMO",
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "19:00"
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme": "COST + OBJECTIONS — ROI math in GHS, before/after, objection-busting, H2 urgency",
+      "posts": [
+        {
+          "date": "2026-07-13",
+          "day": "Mon",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "Let's do the math on one forgotten follow-up.",
+          "body": "Let's do the math on one forgotten follow-up.\n\nSay your rep closes deals averaging GHS 3,000.\nHe forgets to call back a warm lead. That lead goes cold.\nOne lost deal: GHS 3,000 gone.\n\nNow multiply that by 4 reps.\nAnd by how many forgotten follow-ups happen every month.\n\nleads2conv's automatic reminders exist for exactly this reason.\nEvery \"call me next week\" gets a follow-up. Automatically.\n\nThe cost of one recovered deal is almost certainly more than the cost of the tool itself.\n\nH2 started this month. The pipeline you protect now is the commission you pay in September.\n\nDM 'DEMO' — let's show you the numbers for your team. 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesGhana",
+            "#GhanaBusiness",
+            "#SalesManagement",
+            "#SME"
+          ],
+          "graphic_brief": "Simple calculation graphic: GHS 3,000 deal x 4 reps x forgotten follow-ups = big number in red. leads2conv logo.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-13",
+          "day": "Mon",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "One forgotten follow-up.",
+          "body": "One forgotten follow-up = one lost deal. 💸 At GHS 3,000 a deal, that maths hurts.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-14",
+          "day": "Tue",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "\"My team is small. I don't need software.\" Let me challenge that gently. 🙂",
+          "body": "\"My team is small. I don't need software.\" Let me challenge that gently. 🙂\n\nSmall teams lose leads too.\nSmall teams forget follow-ups too.\nSmall teams have reps who resign and take contacts too.\n\nActually, small teams feel the impact more — because every lost deal is a bigger percentage of your revenue.\n\nleads2conv works for a team of 2 just as well as a team of 20.\n\nSetup is fast. If your rep can use WhatsApp, they can use this.\n\nDon't wait until the team is big enough to justify it. Start protecting your pipeline now.\n\nDM us 'DEMO' 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Text-based graphic: 'Small team. Big losses.' with subtext about lead leakage. Conversational design.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-14",
+          "day": "Tue",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Small team?",
+          "body": "Small team? Small teams feel lost deals harder. 📉 Every deal counts more — protect them.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-15",
+          "day": "Wed",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "Before leads2conv vs After leads2conv — a typical Wednesday for a sales manager.",
+          "body": "Before leads2conv vs After leads2conv — a typical Wednesday for a sales manager.\n\nBEFORE:\n→ WhatsApp Ama to ask how many calls she made\n→ Ama replies \"around 15\"\n→ Check Kofi's notebook at end of day\n→ Compile your own spreadsheet at 7pm\n→ Still not sure if those numbers are real\n\nAFTER:\n→ Open the dashboard at 8am\n→ See every rep's call count, live\n→ Spot that Kofi has zero activity by 10am\n→ Call him before the day is wasted\n→ Close the laptop at 5pm with a clear picture\n\nSame team. Different information. Very different outcomes.\n\nH2 is yours to win. DM 'DEMO' to see this live. 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#SalesManagement",
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#ColdCalling"
+          ],
+          "graphic_brief": "Two-column graphic: Before (chaotic, WhatsApp messages, late nights) vs After (clean dashboard, 5pm finish). Bold contrast.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-15",
+          "day": "Wed",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Before: chasing reps at 7pm.",
+          "body": "Before: chasing reps at 7pm. 😩 After: dashboard open at 8am, everything's there. leads2conv.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-16",
+          "day": "Thu",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "\"We already use Excel.\" Okay, but can your Excel call you at 9am to say Kofi hasn't logged anything yet? 😄",
+          "body": "\"We already use Excel.\" Okay, but can your Excel call you at 9am to say Kofi hasn't logged anything yet? 😄\n\nExcel is a great tool. But it doesn't:\n→ Remind reps about follow-ups automatically\n→ Show you live activity as it happens\n→ Keep leads safe when a rep resigns\n→ Give you a leaderboard without you building the formulas\n\nleads2conv does all of that — without you needing to maintain a single spreadsheet.\n\nH2 is 16 days old. Your Excel won't recover the leads you've already lost this month.\nleads2conv can protect the ones still in your pipeline.\n\nDM us 'DEMO' 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Graphic: Excel spreadsheet with a big X vs leads2conv dashboard with a tick. Friendly, not aggressive.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-16",
+          "day": "Thu",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Excel is quiet.",
+          "body": "Excel won't remind your rep to call back that warm lead. ⚠️ leads2conv does. Automatically.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-17",
+          "day": "Fri",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "Winners adjust in July, not January.",
+          "body": "Winners adjust in July, not January.\n\nH1 data is in. Or it should be.\n\nIf you can't look back at H1 with real numbers — actual calls made, actual leads worked, actual follow-ups completed — then July is a guessing game.\n\nAnd H2 decisions made from guesses tend to produce the same H2 results as H1.\n\nThe businesses that will finish 2026 strong are adjusting their systems right now.\nNot their vibes. Not their goals. Their systems.\n\nleads2conv is one of those system adjustments.\nSmall. Fast to set up. Built here in Ghana.\n\nDon't wait for December to wish you'd started in July.\n\nDM 'DEMO' and let's talk this week. 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Bold motivational graphic: 'Winners adjust in July, not January.' Dark background, strong typography. leads2conv logo.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-17",
+          "day": "Fri",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Winners adjust in July.",
+          "body": "Winners adjust in July, not January. 🏆 What system are you fixing this week?",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-18",
+          "day": "Sat",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Saturday thought for every sales manager in Ghana 🇬🇭",
+          "body": "Saturday thought for every sales manager in Ghana 🇬🇭\n\nThe commission dispute at month-end?\nIt starts with no records in week one.\n\nWhen nobody has a log of what happened, every rep remembers what's best for them.\n\"I made that referral.\" \"That was my lead.\" \"I followed up three times.\"\n\nleads2conv keeps the record. For everyone.\nNo disputes. No awkward conversations. Just data.\n\nEnjoy the weekend — but if this is a headache you recognize, we should talk next week. 😄\n\nDM us 'DEMO' 📲",
+          "cta": "DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement"
+          ],
+          "graphic_brief": "Light Saturday graphic: two reps pointing at each other, manager in middle with a smile and a laptop. Friendly, relatable scene.",
+          "posting_time": "10:00"
+        },
+        {
+          "date": "2026-07-18",
+          "day": "Sat",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Commission disputes?",
+          "body": "Commission disputes start with no records. 📋 leads2conv keeps the log. For everyone.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "10:30"
+        },
+        {
+          "date": "2026-07-19",
+          "day": "Sun",
+          "channel": "whatsapp_broadcast",
+          "format": "text",
+          "hook": "Good evening [Name],",
+          "body": "Good evening [Name],\n\nThis week we talked about the real cost of disorganised sales: lost deals, forgotten follow-ups, commission disputes.\n\nNext week we'll be sharing something special for businesses ready to sort out their H2 properly.\n\nIf you want to be among the first to hear — reply DEMO now and we'll schedule your walkthrough before the week ends. 📲",
+          "cta": "Reply DEMO",
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "19:00"
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme": "CLOSE — Month's offer, urgency, FAQ, hard deadline",
+      "posts": [
+        {
+          "date": "2026-07-20",
+          "day": "Mon",
+          "channel": "linkedin",
+          "format": "offer",
+          "hook": "July offer is live — and it closes on July 31st.",
+          "body": "July offer is live — and it closes on July 31st.\n\n⭐[OFFER]\n\nWe built leads2conv in Ghana because we watched too many good sales businesses lose deals they should have closed — not because the reps were bad, but because the system let them down.\n\nNo live visibility. No follow-up reminders. No centralized leads. No real reports.\n\nJuly is the H2 reset month. If you sort your sales system now, you have a full second half to see the difference.\n\nIf you wait until December, you'll be making the same resolution in January.\n\nThis offer closes 31st July. After that, it's regular pricing.\n\n📲 DM 'DEMO' or WhatsApp us directly: +233 553528402\n\nLet's get your team set up before August.",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Offer announcement graphic: bold text '⭐[OFFER]', deadline 31 July, leads2conv logo, WhatsApp number prominent.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-20",
+          "day": "Mon",
+          "channel": "whatsapp_status",
+          "format": "graphic",
+          "hook": "July offer is live.",
+          "body": "July offer is live. ⭐ Closes 31st July. WhatsApp +233 553528402 to grab it.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": "Bright offer graphic with deadline. leads2conv logo and WhatsApp number.",
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-21",
+          "day": "Tue",
+          "channel": "facebook",
+          "format": "offer",
+          "hook": "Quick one before the week gets busy 👋",
+          "body": "Quick one before the week gets busy 👋\n\nWe have a July offer running for leads2conv — built for sales teams right here in Ghana.\n\n⭐[OFFER]\n\nDeadline: 31st July. After that, regular pricing.\n\nPayments via MoMo. Setup is fast. If your team can use WhatsApp, they're good to go.\n\nAny questions? Drop them in the comments or WhatsApp us directly: +233 553528402 📲\n\nLet's get your H2 sorted.",
+          "cta": "WhatsApp +233 553528402 or DM 'DEMO'",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Warm Facebook-friendly offer graphic. Friendly colors, WhatsApp number large, deadline visible.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-21",
+          "day": "Tue",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "H2 starts with better systems.",
+          "body": "H2 starts with better systems. ⭐[OFFER] on leads2conv — closes 31st July. Ask us how.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-22",
+          "day": "Wed",
+          "channel": "linkedin",
+          "format": "listicle",
+          "hook": "FAQ: Real questions we get about leads2conv (answered honestly).",
+          "body": "FAQ: Real questions we get about leads2conv (answered honestly).\n\n❓ \"Is it complicated to set up?\"\nNo. If your reps can use WhatsApp, they can use this. Setup is fast.\n\n❓ \"How do payments work?\"\nMoMo. Simple.\n\n❓ \"What if my team doesn't adopt it?\"\nThat's the most common concern. The interface is straightforward by design — built for how sales teams in Ghana actually operate, not how Silicon Valley imagines them.\n\n❓ \"Is it really built in Ghana?\"\nYes. By KowordaTech. Accra-based. We know the problems because we've seen them.\n\n❓ \"What if I have more questions?\"\nWhatsApp us: +233 553528402. We respond.\n\nJuly offer closes 31st. DM 'DEMO' or message us directly. 📲",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana",
+            "#SalesManagement"
+          ],
+          "graphic_brief": "Clean FAQ graphic: 5 questions listed with tick answers. leads2conv branding. Professional but approachable.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-22",
+          "day": "Wed",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Got questions about leads2conv?",
+          "body": "Got questions about leads2conv? 💬 WhatsApp us: +233 553528402. We actually respond.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-23",
+          "day": "Thu",
+          "channel": "facebook",
+          "format": "offer",
+          "hook": "8 days left in July. ⏳",
+          "body": "8 days left in July. ⏳\n\nOur July offer for leads2conv closes on the 31st.\n\n⭐[OFFER]\n\nAfter that, it's back to regular pricing.\n\nIf you've been thinking about it — this is the week to move.\nPayments via MoMo. Setup is fast.\n\nWhatsApp us right now: +233 553528402 📲\nOr DM 'DEMO' and we'll walk you through everything.\n\nLet's close July strong.",
+          "cta": "WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Countdown graphic: '8 days left' with offer details. Warm urgency — not aggressive.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-23",
+          "day": "Thu",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "8 days left.",
+          "body": "8 days left on the July offer. ⏳ After the 31st it's regular pricing. Don't sleep on it.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-24",
+          "day": "Fri",
+          "channel": "linkedin",
+          "format": "text",
+          "hook": "Picture this: it's August 1st. H2 is properly underway.",
+          "body": "Picture this: it's August 1st. H2 is properly underway.\n\nYou open your dashboard at 8am.\nEvery rep's activity is right there. Live.\nFollow-ups are firing automatically.\nYour pipeline is in one place — not scattered across five phones.\n\nThat version of August is available.\n\nBut the July offer that gets you there closes on Friday 31st.\n\nAfter that, regular pricing. No exceptions.\n\n⭐[OFFER]\n\nPayments via MoMo. Setup is fast. Built in Ghana.\n\nDM 'DEMO' today or WhatsApp +233 553528402 before the weekend. Let's get you sorted. 📲",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Split visual: Chaotic August vs Organised August with dashboard. Offer details at bottom. Deadline prominent.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-24",
+          "day": "Fri",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "August 1st is 8 days away.",
+          "body": "August 1st is 8 days away. 📅 What does your pipeline look like today? Fix it before July ends.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-25",
+          "day": "Sat",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "Last weekend of July. 🗓️",
+          "body": "Last weekend of July. 🗓️\n\nIf you've been saying \"I'll look into that sales system\" all month — this is the weekend to actually send that WhatsApp.\n\nOur July offer closes Friday 31st. No extensions.\n\n⭐[OFFER]\n\nMoMo payments. Fast setup. Built in Ghana for Ghana sales teams.\n\nEnjoy the weekend — but don't let Monday morning be the moment you realise the offer is gone. 😄\n\n+233 553528402 📲",
+          "cta": "WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Relaxed Saturday graphic with offer reminder. Weekend feel but clear deadline. leads2conv branding.",
+          "posting_time": "10:00"
+        },
+        {
+          "date": "2026-07-25",
+          "day": "Sat",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Last weekend of July.",
+          "body": "Last weekend of July. ⭐ Offer closes Friday 31st. WhatsApp +233 553528402 before it's gone.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "10:30"
+        },
+        {
+          "date": "2026-07-26",
+          "day": "Sun",
+          "channel": "whatsapp_broadcast",
+          "format": "text",
+          "hook": "Good evening [Name],",
+          "body": "Good evening [Name],\n\nJust a quick reminder — our July offer for leads2conv closes this Friday 31st July. After that, regular pricing.\n\n⭐[OFFER]\n\nPayments via MoMo. Fast setup. No IT team needed.\n\nIf you want to start August with your sales team finally visible and accountable — this is the week to move.\n\nReply DEMO or WhatsApp +233 553528402. 📲",
+          "cta": "Reply DEMO or WhatsApp +233 553528402",
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "19:00"
+        },
+        {
+          "date": "2026-07-27",
+          "day": "Mon",
+          "channel": "linkedin",
+          "format": "offer",
+          "hook": "4 days left. July offer closes Friday.",
+          "body": "4 days left. July offer closes Friday.\n\n⭐[OFFER]\n\nEverything we've talked about this month:\n→ Live call tracking per rep\n→ Centralized leads — not in anyone's phone\n→ Automatic follow-up reminders\n→ Team leaderboards\n→ Daily dashboards that replace manual reports\n\nAll of it, ready for your team before August begins.\n\nSetup is fast. Payments via MoMo. Built in Ghana.\n\nFriday 31st July is the hard deadline. No exceptions.\n\nDM 'DEMO' now or WhatsApp us directly: +233 553528402 📲",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Countdown: '4 days left' bold headline. Feature list below. Offer details. Deadline 31 July. High energy but clean.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-27",
+          "day": "Mon",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "4 days left.",
+          "body": "4 days left. ⏰ July offer on leads2conv closes Friday 31st. Don't miss it.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-28",
+          "day": "Tue",
+          "channel": "facebook",
+          "format": "offer",
+          "hook": "3 days. Then the July offer is gone. 🚨",
+          "body": "3 days. Then the July offer is gone. 🚨\n\n⭐[OFFER]\n\nleads2conv — the sales dashboard built in Ghana, for Ghana sales teams.\n\nLive call tracking. Centralized leads. Automatic follow-up reminders. Team leaderboards. Daily dashboards.\n\nPayments via MoMo. If your team can use WhatsApp, they can use this.\n\nDon't let August start the same way July started.\n\nWhatsApp us now: +233 553528402 📲",
+          "cta": "WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Urgent but friendly graphic: '3 days left' with offer. Warm red/orange tones. leads2conv logo and WhatsApp number.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-28",
+          "day": "Tue",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "3 days.",
+          "body": "3 days. ⏰ July offer ends Friday. WhatsApp +233 553528402 to lock it in now.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-29",
+          "day": "Wed",
+          "channel": "linkedin",
+          "format": "offer",
+          "hook": "Two days left. July offer closes Friday 31st.",
+          "body": "Two days left. July offer closes Friday 31st.\n\n⭐[OFFER]\n\nIf you've been watching these posts all month and thinking \"this is exactly what my team needs\" — this is decision week.\n\nWe've made it as easy as possible:\n→ Fast setup\n→ MoMo payments\n→ Built for how sales teams in Ghana actually operate\n\nAfter Friday, regular pricing. That's it.\n\nDM 'DEMO' today or WhatsApp +233 553528402. 📲\n\nLet's start your August right.",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Final push graphic: '2 days left — closes Friday 31 July.' Offer details prominent. Clean, direct, no clutter.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-29",
+          "day": "Wed",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "2 days left.",
+          "body": "2 days left. ⭐ July offer closes Friday 31st. After that — regular pricing. No exceptions.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-30",
+          "day": "Thu",
+          "channel": "linkedin",
+          "format": "offer",
+          "hook": "One day left. Offer closes tomorrow — Friday 31st July.",
+          "body": "One day left. Offer closes tomorrow — Friday 31st July.\n\n⭐[OFFER]\n\nleads2conv — live sales visibility for your team. Built in Ghana. Ready before August.\n\nTomorrow is the hard deadline. No exceptions.\n\nIf you're still deciding, let's make it simple:\n→ MoMo payment. Done.\n→ Setup begins same day.\n→ Your team is live before August starts.\n\n📲 DM 'DEMO' now or WhatsApp +233 553528402\n\nThank you for following along this month. Whether or not July was the right time for you — we'll be here in August too. 🙏",
+          "cta": "DM 'DEMO' or WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#SalesManagement",
+            "#MadeInGhana",
+            "#SME"
+          ],
+          "graphic_brief": "Final day closing graphic: 'Last chance — offer closes tomorrow Friday 31 July.' Strong urgency. Offer, WhatsApp number, leads2conv logo. Professional.",
+          "posting_time": "08:00"
+        },
+        {
+          "date": "2026-07-30",
+          "day": "Thu",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "Last chance — tomorrow is the deadline.",
+          "body": "Last chance. ⭐ July offer closes tomorrow — Friday 31st. WhatsApp +233 553528402 right now.",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "08:30"
+        },
+        {
+          "date": "2026-07-31",
+          "day": "Fri",
+          "channel": "facebook",
+          "format": "text",
+          "hook": "The July offer is now closed. Thank you to everyone who moved. 🙏",
+          "body": "The July offer is now closed. Thank you to everyone who moved. 🙏\n\nIf you missed it — no stress. Regular pricing is still available and leads2conv is still built for exactly the problems your sales team is dealing with.\n\nWe're heading into August with a full pipeline of teams getting set up.\n\nIf you want to join them — WhatsApp us: +233 553528402 📲\n\nHere's to a strong August. H2 is just getting started. 💪",
+          "cta": "WhatsApp +233 553528402",
+          "hashtags": [
+            "#GhanaBusiness",
+            "#SalesGhana",
+            "#MadeInGhana"
+          ],
+          "graphic_brief": "Warm close-of-month graphic: 'July done. August ready.' leads2conv logo. Upbeat, forward-looking.",
+          "posting_time": "09:00"
+        },
+        {
+          "date": "2026-07-31",
+          "day": "Fri",
+          "channel": "whatsapp_status",
+          "format": "text",
+          "hook": "July done.",
+          "body": "July done. August starts now. 💪 Is your sales team ready? leads2conv.com",
+          "cta": null,
+          "hashtags": [],
+          "graphic_brief": null,
+          "posting_time": "09:30"
+        }
+      ]
+    }
+  ],
+  "offer_needed_by": "2026-07-24",
+  "notes_for_founder": [
+    "Confirm and fill in ⭐[OFFER] details by Friday 24 July so Week 4 posts can be finalised — all Week 4 graphics and copy depend on the specific offer (price, discount, bundle, or free trial terms).",
+    "All demo requests should be routed to WhatsApp +233 553528402 — ensure someone is monitoring this number daily from 20 July onwards as Week 4 will drive direct inbound traffic.",
+    "The Sunday WhatsApp broadcast list needs to be clean and segmented before 5 July — personalise [Name] placeholders and confirm MoMo payment flow is live before any paid offer posts go out."
+  ],
+  "qa_report": [
+    {
+      "date": "2026-07-09",
+      "channel": "whatsapp_status",
+      "issue": "Hook 'Rep leaves.' too similar to 2026-07-03 whatsapp_status hook 'Rep leaves Friday.' — freshness risk within calendar. Rewritten to 'Pipeline stays put.' with new body.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "facebook",
+      "issue": "'9 days left in July' is arithmetically wrong: July 23 to July 31 = 8 days remaining. Corrected to '8 days left'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "whatsapp_status",
+      "issue": "'9 days left on the July offer' is wrong — should be 8 days from July 23 to July 31. Corrected.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "linkedin",
+      "issue": "'closes on Thursday 31st' — July 31 2026 is a Friday per calendar logic (July 1 = Wednesday). Corrected to 'Friday 31st'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "whatsapp_status",
+      "issue": "'August 1st is 7 days away' — July 24 to August 1 = 8 days. Corrected to '8 days away'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "facebook",
+      "issue": "'closes Thursday 31st' — July 31 is a Friday. Corrected to 'Friday 31st'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "whatsapp_status",
+      "issue": "'Offer closes Thursday' — July 31 is a Friday. Corrected to 'Friday 31st'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "whatsapp_broadcast",
+      "issue": "'closes this Thursday 31st July' — July 31 is a Friday. Corrected to 'Friday 31st July'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "linkedin",
+      "issue": "Hook and body said 'closes Thursday' — July 31 is a Friday. Corrected to 'closes Friday' throughout.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "whatsapp_status",
+      "issue": "'closes Thursday 31st' — July 31 is a Friday. Corrected to 'closes Friday 31st'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "whatsapp_status",
+      "issue": "'July offer ends Thursday' — July 31 is a Friday, not Thursday. Corrected to 'ends Friday'.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "linkedin",
+      "issue": "Hook 'Tomorrow is the last day' and body 'Tomorrow is decision day' imply July 30 is the last day, but offer closes July 31. Rewrote to 'Two days left. July offer closes Friday 31st.' Hook updated accordingly.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-29",
+      "channel": "whatsapp_status",
+      "issue": "'Last day tomorrow' implies July 30 is last day; offer closes July 31. Corrected hook to '2 days left.' and body to reference Friday 31st.",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "linkedin",
+      "issue": "Hook 'Today is the last day' and body 'July 31st. That's today' — post is dated July 30, not July 31. Rewritten as 'One day left. Offer closes tomorrow — Friday 31st July.'",
+      "fixed": true
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "whatsapp_status",
+      "issue": "'TODAY is the last day. July offer closes tonight' — post is dated July 30; offer closes July 31. Rewritten to 'Last chance — tomorrow is the deadline' with body referencing Friday 31st.",
+      "fixed": true
+    }
+  ]
+}

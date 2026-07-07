@@ -4,6 +4,6 @@
   "context": "auto",
   "extra": "none",
   "model": "claude-sonnet-4-6",
-  "maxTokens": 8000,
+  "maxTokens": 24000,
   "hooksHistoryMonths": 2
 }

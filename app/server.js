@@ -2,8 +2,8 @@
 /**
  * leads2conv Marketing Agent — Control Panel (minimal web app)
  *
- * Run:  npm install   (once, installs express)
- *       $env:ANTHROPIC_API_KEY = "sk-ant-..."   (PowerShell; needed for Generate button)
+ * Run:  npm install                    (once, installs express + dotenv)
+ *       copy .env.example .env         then paste your key (needed for Generate button)
  *       npm start
  * Open: http://localhost:3210
  */
@@ -14,6 +14,7 @@ const path = require("path");
 const { spawn } = require("child_process");
 
 const ROOT = path.join(__dirname, "..");
+require("dotenv").config({ path: path.join(ROOT, ".env") });
 const CALENDARS_DIR = path.join(ROOT, "calendars");
 const CONFIG_PATH = path.join(ROOT, "config.json");
 const POSTED_PATH = path.join(ROOT, "posted.json");

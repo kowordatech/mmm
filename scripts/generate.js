@@ -2,11 +2,11 @@
 /**
  * leads2conv Marketing Agent — monthly calendar generator
  *
- * Usage:
- *   ANTHROPIC_API_KEY=sk-... node scripts/generate.js            # generates NEXT month
- *   ANTHROPIC_API_KEY=sk-... node scripts/generate.js --this-month
- *   ANTHROPIC_API_KEY=sk-... node scripts/generate.js --month 2026-08
- *   node scripts/generate.js --dry-run                           # no API call, prints the prompt
+ * Usage (set ANTHROPIC_API_KEY in .env, see .env.example):
+ *   node scripts/generate.js                    # generates NEXT month
+ *   node scripts/generate.js --this-month
+ *   node scripts/generate.js --month 2026-08
+ *   node scripts/generate.js --dry-run          # no API call, prints the prompt
  *
  * Outputs:
  *   calendars/leads2conv-YYYY-MM.json   (final, QA-passed calendar)
@@ -17,6 +17,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
+require("dotenv").config({ path: path.join(ROOT, ".env") });
 const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, "config.json"), "utf8"));
 const SYSTEM_PROMPT = fs.readFileSync(path.join(ROOT, "prompts", "system.txt"), "utf8");
 const TASK_TEMPLATE = fs.readFileSync(path.join(ROOT, "prompts", "task.template.txt"), "utf8");
